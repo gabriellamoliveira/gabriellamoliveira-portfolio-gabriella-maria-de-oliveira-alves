@@ -29,3 +29,10 @@ Atualmente cursando o 1° Semestre de Análise e Desenvolvimento do Software na 
 ---
  
 ### 📂 Portfólio de Projetos
+
+#### 🤖 Inteligência Artificial
+| Projeto | Descrição | Link |
+| :--- | :--- | :---: |
+| **Interfaces Visuais com o IA Studio** | Uma nova forma de projetar experiências digitais com base em neumorfismo. | [Ver Projeto]( https://ai.studio/apps/dcb2faed-4ecf-4f9b-84b3-7579de93d156) |
+ 
+---
