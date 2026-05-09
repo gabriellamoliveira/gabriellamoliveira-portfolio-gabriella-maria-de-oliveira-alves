@@ -60,24 +60,6 @@ Se você exportou o código do AI Studio para o seu computador:
     npm start
     ```
 
-## 📦 Deploy
-
-Para publicar sua aplicação diretamente do AI Studio:
-
-1.  Clique no botão **"Share"** ou **"Deploy"** no canto superior direito.
-2.  Siga as instruções para integrar com o **Google Cloud Run**.
-3.  Certifique-se de configurar as permissões de IAM necessárias no console do Google Cloud.
-
-## 🤝 Contribuição
-
-Contribuições são bem-vindas! Para contribuir:
-
-1.  Dê um `fork` no projeto.
-2.  Crie uma branch para sua funcionalidade (`git checkout -b feature/nova-funcionalidade`).
-3.  Faça o `commit` das suas alterações (`git commit -m 'Add: nova funcionalidade'`).
-4.  Dê um `push` na branch (`git push origin feature/nova-funcionalidade`).
-5.  Abra um **Pull Request**.
-
 ## ⚖️ Licença
 
 Este projeto está licenciado sob a Licença MIT - consulte o arquivo [LICENSE](LICENSE) para mais detalhes.
