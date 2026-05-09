@@ -1,68 +1,43 @@
-# Engenharia Reversa- Neumorphism,io.
+# Neumorphism.io
 
->  Uma aplicação full-stack de inteligência artificial desenvolvida com Gemini para automatizar.]
+<p align="center">
+  <img src="https://img.shields.io/badge/Role-AI--Assisted_Software_Developer-blue?style=for-the-badge" alt="Role">
+  <img src="https://img.shields.io/badge/Methodology-Reverse_Prompt_Engineering-darkred?style=for-the-badge" alt="Methodology">
+  <img src="https://img.shields.io/badge/Google_AI_Studio-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google AI Studio">
+</p>
 
-[![Google AI Studio](https://img.shields.io/badge/Built%20with-Google%20AI%20Studio-blue?logo=google&logoColor=white)](https://aistudio.google.com/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+## 🚀 Proposta do Projeto
+O **Neumorphism.io** é um desafio técnico de reconstrução funcional guiado por Inteligência Artificial. A premissa central é assumir a posição de um **Desenvolvedor de Software assistido por IA** para reconstruir um aplicativo totalmente funcional baseando-se exclusivamente na observação da interface externa (UI/UX).
 
-## 📌 Visão Geral
+### O Diferencial Metodológico
+Diferente do desenvolvimento tradicional, este projeto foi executado sob as seguintes restrições:
+- **Black Box Reconstruction:** O código-fonte original do site de referência nunca foi visualizado.
+- **Visual-to-Code:** A IA não recebeu o link direto; em vez disso, a lógica de negócio e a interface foram reconstruídas através de descrições estruturadas e engenharia de prompt baseada na observação do comportamento da UI.
+- **Sincronia Homem-IA:** O desenvolvedor atua como o arquiteto que interpreta os estados visuais, enquanto a IA atua como o motor de implementação lógica e estilística.
 
-Este projeto é uma aplicação moderna desenvolvida no **Google AI Studio**, utilizando o modelo **Gemini 1.5 Pro/Flash**. Ele integra recursos de servidor (Node.js/npm) com uma interface de usuário dinâmica, permitindo processamento inteligente de dados em tempo real.
-
-O foco principal do projeto é [descrever o problema que ele resolve, ex: análise de documentos, geração de conteúdo criativo, ou assistente especializado].
-
-## ✨ Funcionalidades Principais
-
-- 🤖 **Integração Nativa com Gemini:** Processamento de linguagem natural avançado.
-- 🔐 **Gestão de Segredos:** Autenticação segura de chaves de API via variáveis de ambiente.
-- ⚡ **Backend em Node.js:** Lógica de servidor robusta para tarefas complexas.
-- 🎨 **Interface Responsiva:** UI otimizada para diferentes dispositivos.
-- 📂 **Persistência (Opcional):** [Mencione se usa Firebase/Firestore para salvar dados].
+## 🧠 Funcionalidades Reconstruídas
+- **Gerador de Sombras Neumórficas:** Algoritmo para cálculo de luz e sombra (soft UI) baseado em cores de fundo.
+- **Manipulação Dinâmica de Propriedades:** Ajuste em tempo real de curvatura, tamanho, distância e intensidade.
+- **Output de Código:** Geração automática de sintaxe CSS para implementação imediata.
 
 ## 🛠️ Stack Tecnológica
+- **Motor de IA:** Modelo Gemini (via Google AI Studio).
+- **Interface:** HTML5 / CSS3 (Foco em variáveis CSS e Neumorfismo).
+- **Lógica:** JavaScript para processamento de estados e reatividade.
 
-* **Inteligência Artificial:** [Google Gemini API](https://ai.google.dev/)
-* **Ambiente de Desenvolvimento:** Google AI Studio (Build Mode)
-* **Runtime:** Node.js
-* **Frontend:** HTML5, CSS3, JavaScript (ES6+)
-* **Cloud Hosting:** Google Cloud Run (recomendado)
+## 📖 Fluxo de Desenvolvimento
+1. **Análise de Interface:** Observação dos componentes, estados de hover, e comportamento dos seletores.
+2. **Prompt Engineering:** Tradução das observações visuais em instruções lógicas para a IA.
+3. **Refinamento Iterativo:** Ajuste fino dos parâmetros de iluminação e contraste para atingir a estética "Neumorphism" perfeita.
 
-## 🚀 Como Começar
-
-### Pré-requisitos
-
-* Uma conta no [Google AI Studio](https://aistudio.google.com/).
-* Uma chave de API do Gemini (obtida no AI Studio).
-
-### Configuração Local (Opcional)
-
-Se você exportou o código do AI Studio para o seu computador:
-
-1.  **Clone o repositório:**
-    ```bash
-    git clone [https://github.com/seu-usuario/seu-projeto.git](https://github.com/seu-usuario/seu-projeto.git)
-    cd seu-projeto
-    ```
-
-2.  **Instale as dependências:**
-    ```bash
-    npm install
-    ```
-
-3.  **Variáveis de Ambiente:**
-    Crie um arquivo `.env` na raiz e adicione sua chave:
-    ```env
-    GEMINI_API_KEY=sua_chave_aqui
-    ```
-
-4.  **Execute o servidor:**
-    ```bash
-    npm start
-    ```
-
-## ⚖️ Licença
-
-Este projeto está licenciado sob a Licença MIT - consulte o arquivo [LICENSE](LICENSE) para mais detalhes.
+## 🔗 Acesso ao Protótipo
+O resultado da reconstrução assistida pode ser visualizado no ambiente de prototipagem:
+👉 [Acessar Projeto no Google AI Studio](https://ai.studio/apps/f1eafe62-73cb-49fb-8555-6216a877bfe9)
 
 ---
-Desenvolvido por [Seu Nome](https://github.com/seu-usuario) utilizando as ferramentas de ponta do Google AI.
+
+## 👩‍💻 Autor
+**Gabriella Maria de Oliveira Alves** *Desenvolvedora de Software & Prompt Engineer*
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seu-usuario)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
