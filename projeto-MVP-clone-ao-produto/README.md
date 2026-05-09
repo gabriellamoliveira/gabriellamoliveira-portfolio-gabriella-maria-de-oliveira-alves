@@ -7,8 +7,7 @@ Uma nova forma de projetar experiências digitais com base em neumorfismo (Soft 
 
 ## 🔗 Acesse o Projeto
 O SoftMorphic pode ser explorado e visualizado através do link:
-👉 [**https://ai.studio/apps/dcb2faed-4ecf-4f9b-84b3-7579de93d156**](https://ai.studio/apps/dcb2faed-4ecf-4f9b-84b3-7579de93d156)
-
+👉 [**https://ai.studio/apps/3faebff2-dbf3-4f09-95e2-5ee1dae1e162))]
 ---
 
 ## 👤 Autor
