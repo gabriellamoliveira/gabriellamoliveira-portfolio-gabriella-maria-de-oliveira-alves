@@ -1,15 +1,10 @@
-# [Gabriella Maria de Oliveira Alves]
-> Estudante de [Estudante de Análise e Desenvolvimento do Software]
- 
+# Gabriella Maria de Oliveira Alves
+> Estudante de Análise e Desenvolvimento do Software
 ---
- 
 ### 📫 Contato & Redes Sociais
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriella-oliveira-06851a2b6/?skipRedirect=true)
 [![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabriellagaby2015@gmail.com)
-
- 
 ---
- 
 ### 👨‍💻 Sobre
 Atualmente cursando o 1° Semestre de Análise e Desenvolvimento do Software na Universidade Cidade de São Paulo (UNICID). Sou apaixonada por resolver problemas através da tecnologia e desenvolvimento de web. Possuo foco em Criação de site e Análise de dados.
  
@@ -18,7 +13,6 @@ Atualmente cursando o 1° Semestre de Análise e Desenvolvimento do Software na 
 * **Habilidades Socioemocionais:** Trabalho em equipe, comunicação assertiva, organização e proatividade.
 --- 
 ---
- 
 ### 🛠 Minhas Ferramentas Favoritas
 
 #### 💻 Linguagens e Tecnologias
@@ -31,15 +25,13 @@ Atualmente cursando o 1° Semestre de Análise e Desenvolvimento do Software na 
 ## 🤖 Inteligência Artificial & Ciência de Dados
 | <img src="https://img.shields.io/badge/Gemini-8E75C2?style=for-the-badge&logo=googlegemini&logoColor=white" /> | 
 | <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" /> |
- 
 ---
-
 ### 📂 Portfólio de Projetos
  
 #### 🤖 Inteligência Artificial
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **Engenharia Reversa** | Algoritmo de classificação para prever saída de clientes. | [Ver Projeto](./https://github.com/gabriellamoliveira/gabriellamoliveira-portfolio-gabriella-maria-de-oliveira-alves/blob/a1158d7ef76c1e8a83886e15129982bc1af58d15/projeto-engenharia-reversa/) |
+| **Engenharia Reversa** | Arquiteto de Soluções que utiliza o Gemini como seu "braço executor". | [Ver Projeto](./https://github.com/gabriellamoliveira/gabriellamoliveira-portfolio-gabriella-maria-de-oliveira-alves/blob/a1158d7ef76c1e8a83886e15129982bc1af58d15/projeto-engenharia-reversa/) |
  
 ---
  
