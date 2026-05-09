@@ -36,6 +36,8 @@ Atualmente cursando o 1° Semestre de Análise e Desenvolvimento do Software na 
 | ** Batalha de Modelos & Engenharia de Prompt (XML)** | Geração de Promp Estruturado. | [Ver Projeto](./projeto-batalha-de-modelos-e-engenharia-de-prompt/) |
 | ** Engenharia Reversa** | Desenvolvimento de web. | [Ver Projeto](./projeto-engenharia-reversa/) |
 | ** Do Clone ao Produto Mínimo Viável (MVP+)** | Prática de Engenharia Reversa. | [Ver Projeto](./projeto-MVP-clone-ao-produto/) |
+** Engenharia de Software e IA com Bubble.io** | Desenvolvedor de gestão da Web. | [Ver Projeto](./projeto-engenharia-de-software-e-ia/) |
+
 ---
 
  
