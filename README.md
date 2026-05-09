@@ -32,9 +32,9 @@ Atualmente cursando o 1° Semestre de Análise e Desenvolvimento do Software na 
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
 | ** Corrida de Prompt** | Dominação da técnica de comunicação com modelos de linguagem. | [Ver Projeto](./projeto-corrida-de-prompt/) |
-
 | ** Laboratório de Classificação Visual** | Treinamento de modelo de imagem simples. | [Ver Projeto](./projeto-laboratorio-de-classificação-visual/) |
- 
+| ** Batalha de Modelos & Engenharia de Prompt (XML)** | Geração de Promp Estruturado. | [Ver Projeto](./projeto-batalha-de-modelos-e-engenharia-de-prompt/) |
+| ** Corri** | Dominação da técnica de comunicação com modelos de linguagem. | [Ver Projeto](./projeto-corrida-de-prompt/) |
 ---
  
 ### 🏗 Estrutura do Repositório
