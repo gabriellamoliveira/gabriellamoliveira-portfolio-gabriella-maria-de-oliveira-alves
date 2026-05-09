@@ -1,0 +1,46 @@
+@import "tailwindcss";
+
+@theme {
+  --color-bg-primary: #301259;
+  --color-text-primary: #F2F1DF;
+  --color-accent: #5E5BA6;
+  --color-header-box: #5d5a56;
+  --color-star: #f7d917;
+  --color-shadow-dark: #240e43;
+  --color-shadow-light: #3c166f;
+  --color-code-green: #a1ef8c;
+  
+  --font-sans: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+}
+
+@layer base {
+  body {
+    @apply bg-bg-primary text-text-primary font-sans antialiased;
+  }
+}
+
+@layer utilities {
+  .theme-card {
+    background: var(--color-bg-primary);
+    box-shadow: 8px 8px 16px var(--color-shadow-dark), 
+                -8px -8px 16px var(--color-shadow-light);
+  }
+  
+  .theme-slider {
+    @apply appearance-none w-full h-[6px] bg-shadow-dark rounded-[3px] outline-none;
+  }
+  
+  .theme-slider::-webkit-slider-thumb {
+    @apply appearance-none w-[18px] h-[18px] rounded-full bg-text-primary cursor-pointer border-2 border-accent;
+  }
+
+  .neumorphic-main {
+    box-shadow: 20px 20px 60px var(--color-shadow-dark), 
+                -20px -20px 60px var(--color-shadow-light);
+  }
+
+  .neumorphic-inset-thick {
+    box-shadow: inset 3px 3px 6px var(--color-shadow-dark), 
+                inset -3px -3px 6px var(--color-shadow-light);
+  }
+}
