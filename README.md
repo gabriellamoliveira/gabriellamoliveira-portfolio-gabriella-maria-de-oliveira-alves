@@ -39,7 +39,7 @@ Atualmente cursando o 1° Semestre de Análise e Desenvolvimento do Software na 
 #### 🤖 Inteligência Artificial
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **Engenharia Reversa** | Algoritmo de classificação para prever saída de clientes. | [Ver Projeto](./https://ai.studio/apps/f1eafe62-73cb-49fb-8555-6216a877bfe9/) |
+| **Engenharia Reversa** | Algoritmo de classificação para prever saída de clientes. | [Ver Projeto](./https://github.com/gabriellamoliveira/gabriellamoliveira-portfolio-gabriella-maria-de-oliveira-alves/blob/a1158d7ef76c1e8a83886e15129982bc1af58d15/projeto-engenharia-reversa/) |
  
 ---
  
