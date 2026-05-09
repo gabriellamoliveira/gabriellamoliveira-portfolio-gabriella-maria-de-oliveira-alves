@@ -36,7 +36,22 @@ Atualmente cursando o 1° Semestre de Análise e Desenvolvimento do Software na 
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
 
-| **Interfaces Visuais com o IA Studio** | Uma nova forma de projetar experiências digitais com base em neumorfismo. | [Ver Projeto]( (https://aistudio.google.com/apps/f1eafe62-73cb-49fb-8555-6216a877bfe9?showAssistant=true&showPreview=true)6) |
+| **Laboratório de Classificação Visual** | Exercício prático de conscientização sobre viés em Inteligência Artificial (IA). | [Ver Projeto]( (./projeto-ia-churn) |
 
+| **Engenharia Reversa** | Exercício prático de conscientização sobre viés em Inteligência Artificial (IA). | [Ver Projeto]((https://ai.studio/apps/f1eafe62-73cb-49fb-8555-6216a877bfe9))] |
+
+| **Interfaces Visuais com o IA Studio** | Uma nova forma de projetar experiências digitais com base em neumorfismo. | [Ver Projeto]( (https://aistudio.google.com/apps/f1eafe62-73cb-49fb-8555-6216a877bfe9?showAssistant=true&showPreview=true)6)] |
+
+| **Batalha de Modelos & Engenharia de Prompt (XML)** | Uma nova forma de projetar experiências digitais com base em neumorfismo. | [Ver Projeto]( (https://aistudio.google.com/apps/f1eafe62-73cb-49fb-8555-6216a877bfe9?showAssistant=true&showPreview=true)6) |
+
+| **Do Clone ao Produto Mínimo Viável (MVP+)** | Uma nova forma de projetar experiências digitais com base em neumorfismo. | [Ver Projeto]( ([https://github.com/gabriellamoliveira/Editor-Markdown/issues/1#issue-4289273726)) |
+
+| **Engenharia de Software e IA com Bubble.io** | Uma nova forma de projetar experiências digitais com base em neumorfismo. | [Ver Projeto]( ([https://github.com/gabriellamoliveira/Editor-Markdown/issues/1#issue-4289273726)) |
+
+### 🏗 Estrutura do Repositório
+Abaixo, a organização deste repositório para facilitar a navegação:
+ 
+- `root/`: Arquivo de apresentação principal.
+- `/projeto-nome/`: Pasta contendo o código-fonte, documentação e o README específico do projeto acadêmico.
 
 ---
