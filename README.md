@@ -31,7 +31,7 @@ Atualmente cursando o 1° Semestre de Análise e Desenvolvimento do Software na 
 #### 🤖 Inteligência Artificial
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **Engenharia Reversa** | Arquiteto de Soluções que utiliza o Gemini como seu "braço executor". | [Ver Projeto](./https://github.com/gabriellamoliveira/gabriellamoliveira-portfolio-gabriella-maria-de-oliveira-alves/blob/a1158d7ef76c1e8a83886e15129982bc1af58d15/projeto-engenharia-reversa/) |
+| ** Corrida de Prompt** | Dominação da técnica de comunicação com modelos de linguagem. | [Ver Projeto](./projeto-corrida-de-prompt/) |
  
 ---
  
