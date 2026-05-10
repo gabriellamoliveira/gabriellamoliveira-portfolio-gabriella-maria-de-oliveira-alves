@@ -1,0 +1,7 @@
+"action_type","affected_resource_id","affected_resource","is_client_view_mode","logged_at","module","new_value"
+"UPDATE","budget_4","Budget","no","Apr 22, 2026 11:05 pm","Budget","status: Aprovado"
+"VIEW","budget_9","Budget","yes","Apr 25, 2026 12:00 am","Budget","null"
+"CREATE","budget_1","Budget","no","Apr 10, 2026 7:05 am","Budget","status: Em aberto"
+"UPDATE","pkg_1","Package","no","Apr 20, 2026 6:30 am","Package","is_active: true"
+"UPDATE","client_3","Client","no","Apr 21, 2026 10:15 pm","Client","phone: +55 31 91111-2222"
+"DELETE","user_4","User","no","Apr 18, 2026 8:45 am","User","is_active: false"
