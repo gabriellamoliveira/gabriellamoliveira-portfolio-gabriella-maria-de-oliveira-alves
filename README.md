@@ -9,7 +9,7 @@
 Atualmente cursando o 1° Semestre de Análise e Desenvolvimento do Software na Universidade Cidade de São Paulo (UNICID). Sou apaixonada por resolver problemas através da tecnologia e desenvolvimento de web. Possuo foco em Criação de site e Análise de dados.
  
 * **Habilidades Técnicas:** Python, SQL & JavaScript.
-* **Ferramentas:** Gemini, GitHub, ColabGoogle.
+* **Ferramentas:** Gemini, GitHub, ChatGpt, Bubble.io, Claude, ColabGoogle.
 * **Habilidades Socioemocionais:** Trabalho em equipe, comunicação assertiva, organização e proatividade.
 --- 
 ---
@@ -25,6 +25,16 @@ Atualmente cursando o 1° Semestre de Análise e Desenvolvimento do Software na 
 ## 🤖 Inteligência Artificial & Ciência de Dados
 | <img src="https://img.shields.io/badge/Gemini-8E75C2?style=for-the-badge&logo=googlegemini&logoColor=white" /> | 
 | <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" /> |
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
+
+## 📂 Armazenamento em Nuvem
+![iCloud](https://img.shields.io/badge/icloud-%233693F3.svg?style=for-the-badge&logo=icloud&logoColor=white)
+![Mega.nz](https://img.shields.io/badge/Mega-%23D90007.svg?style=for-the-badge&logo=Mega&logoColor=white)
+![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)
+
+## 🎨 Design
+![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ---
 ### 📂 Portfólio de Projetos
  
